@@ -69,3 +69,68 @@ https://www.sciencedirect.com/science/article/abs/pii/S0921889009001900 – arti
 <li>Find a way to visualize the map that the car is creating
 </li>
 </ul>
+<h1>Identity Recognition System</h1>
+
+<h3>Team Members:</h3>
+Erim Keresteci, Jaanvi Chirimar (maybe)
+
+<h3>Summary:</h3>
+The aim of this project is to create software that can detect peoples’ voices and faces using machine learning. 
+The audience for this project would be the people working on it, however the later stages of this project (possibly in another sprint) would be for other people who would test the program (malware). The motivation behind this project is to learn how to use machine learning with video and audio data and extract specific information from that data (i.e. a name). The long term goal with this project, stretching into other sprints, would be to create a malware that can collect data about a subject. 
+
+<h3>Resources:</h3>
+This project would use Python as the primary programming language. Libraries that would be useful include keras, TensorFlow, Pandas, NumPy, OpenCV, and an audio-processing library. There could very well be more libraries used, however for now this is what I can foresee. I can’t write a lot on the resources matter because this kind of project is very new to me, so I’m not sure what else I might need.  
+
+Helpful articles:
+https://www.datacamp.com/tutorial/face-detection-python-opencv
+https://realpython.com/face-recognition-with-python/
+https://www.geeksforgeeks.org/python-speech-recognition-module/
+https://www.simplilearn.com/tutorials/python-tutorial/speech-recognition-in-python
+
+There are no products I would like to purchase as of now. 
+
+<h3>Tasks:</h3>
+Research how facial recognition works
+Work with OpenCV to create a video feed that receives input from webcam
+Create a machine learning model that can detect a face on the video feed
+Continue step 4
+Continue step 4
+Continue step 4
+Modify the machine learning model to be able to detect facial expressions and features (i.e. smiling/frowning, eye color, etc)
+Continue step 10
+Continue step 10
+Continue step 10
+Continue step 10
+Continue step 10
+Modify the machine learning model to be able to detect and classify different faces as different people.
+Continue step 13
+Continue step 13
+Continue step 13
+Modify step 13 so that it can save these “profiles” to a datastore 
+Continue step 17
+Continue step 17
+Continue step 17
+Modify step 17 so that it can label faces it has detected in the past with the corresponding profiles upon re-detection
+Continue step 21
+Continue step 21
+Research how speech recognition works
+Work with an audio-processing library to be able to get a live audio feed from computer - possibly extracting it from the video feed even
+Continue step 25
+Continue step 25
+Test to see if audio feed works
+Create machine learning model to detect a specific persons voice
+Continue step 29
+Modify step 29 to be able to detect multiple voices at once and save them to profiles
+Continue step 31
+Continue step 31
+Continue step 31
+Modify step 21 so that the facial recognition model can detect when a person is speaking through mouth movements
+Continue step 35
+Combine step 31 and 35 so that voices and faces are matched to the same profiles
+Continue step 37
+Continue step 37
+Test + bug fixes 
+
+<h3>Additional Notes:</h3>
+The follow-up project to this is a little unethical due to its potential uses so I am limiting myself to just the functionality portion and not doing anything malware related for now. 
+
