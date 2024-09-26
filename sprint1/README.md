@@ -65,7 +65,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0921889009001900 – arti
  </li>
 <li>Test out the line extraction ones
 </li>
-<li>If working ish then plot a simple graph to be able to finetune and make the algorithms more accurate or efficient or change completely if graphs show they are not working </li>
+<li>If workingish then plot a simple graph to be able to finetune and make the algorithms more accurate or efficient or change completely if graphs show they are not working </li>
 <li>Find a way to visualize the map that the car is creating
 </li>
 </ul>
