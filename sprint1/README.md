@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=r6sGWTCMz2k&list=PLIbBLQw7h0JcjDEQU5n8nppgkBWY3v
 <h2>Team Members</h2>
 <p>Jaanvi</p>
 <h2>Summary</h2>
-<p>I would like to continue something I was working on 2 years ago that mapped out the room surrounding a mini car/ robot using sensors. It would be able to go in a circular room and then recreate that map of a circle to the user.</p>
+<p>I would like to continue something I was working on 2 years ago that mapped out the room surrounding a mini car/ robot using sensors. For example, it would be able to go in a circular room and then recreate that map of a circle to the user.</p>
 <h2>Resources, Are there outside databases or APIs that you think might be helpful?</h2>
 <p>Python
 Libraries: numpy, scipy, matlab, matplotlib
