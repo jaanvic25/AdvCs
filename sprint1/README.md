@@ -11,24 +11,24 @@ https://www.youtube.com/watch?v=r6sGWTCMz2k&list=PLIbBLQw7h0JcjDEQU5n8nppgkBWY3v
 
 <h2>Tasks</h2>
 <ul>
-<li>WResearch the basic of fourier
-Review cos and sin 
-Complex numbers
-Frequency
-Read article? About fourier transform
-Time domain vs frequency domain
-Learn about DFT and FFT
-Try to understand mathematically
-Learn about O(N) and why FFT reduces complexity significantly
-understand/ write pseudo code for algos
-Convolutions 
-Write a program to graph sin and cos waves
-Then implement or write discrete fourier transform? 
-Compare to FFT
-Image
-Read image with pillow
-Visualize it with matplotlib or a library
-Try to experiment with filtering or compression using and not using fourier
-Look at complexity/time either way 
+<li>Research the basic of fourier</li>
+<li>Review cos and sin </li>
+<li>Complex numbers</li>
+<li>Frequency</li>
+<li>Read article? About fourier transform</li>
+<li>Time domain vs frequency domain</li>
+<li>Learn about DFT and FFT</li>
+<li>Try to understand mathematically</li>
+<li>Learn about O(N) and why FFT reduces complexity significantly</li>
+<li>understand/ write pseudo code for algos</li>
+<li>Convolutions </li>
+<li>Write a program to graph sin and cos waves</li>
+<li>Then implement or write discrete fourier transform? </li>
+<li>Compare to FFT</li>
+<li>Image</li>
+<li>Read image with pillow</li>
+<li>Visualize it with matplotlib or a library</li>
+<li>Try to experiment with filtering or compression <li>using and not using fourier</li>
+<li>Look at complexity/time either way 
 </li>
 </ul>
