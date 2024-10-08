@@ -1,24 +1,38 @@
 <h1>Fourier Transforms and Applications</h1>
 <h2>Team Members</h2>
 <p>Jaanvi</p>
-<h2>Summary</h2>
-<p>I would like to study the topic of fourier transforms (breaking down an image or audio file into simpler components) allowing us to put blurring or smoothing filters, or compress images/audio files. I would like to understand the underlying math and how this topic is necessary for audio and image files and with this knowledge make a basic project such as a program that lets you input an audio file and what factor to compress it by, then shows you how much memory it will take, and how much of its original sound it would retain. Another project idea would be to let the user input an image and have the program break it down into its components then re-draw it with the vectors, depending on how much precision the user wants. Or I could try to apply a blurring or smoothing filter or something like that instead. These would be more tools to show the topic to others or for my understanding rather than for actual use.</p>
-<h2>Resources, Are there outside databases or APIs that you think might be helpful?</h2>
+<h2>Overview</h2>
+<p>I would like to study the topic of Fourier transforms (focusing on cs applications). After studying and understanding the mathematical topic I would aim to recreate or pseudo-code the DFT (and FFT?) -- this would show my understanding. I would aim to make a basic project such as a program that lets the user input an audio file and what factor to compress it by, then shows the user how much memory it will take, and how much of its original sound it would retain. Another project idea would be to let the user input an image and have the program break it down into its components then re-draw it with the vectors, depending on how much precision the user wants. I aim to complete one of these projects (or something similar).</p>
+<h2>Motivation</h2>
+<p>I chose this topic because I found that in things like applying filters to an image Fourier transforms are often used, which interested me since I feel like I have used blurring and more filters without fully understanding the convolutions etc that go into those filters. Further, when looking into Fourier transforms, I found that they are fundamental not only to speeding up image processing but also to audio processing and overall to data compression. Therefore, I would like to understand such a fundamental topic of computer science and especially since I have probably been using it when using functions imported from libraries.</p>
+
+<h2>Tools and Technologies + Resources</h2>
 <p>Python Libraries: numpy, scipy, matlab, matplotlib, pillow
 
+
 https://www.youtube.com/watch?v=r6sGWTCMz2k&list=PLIbBLQw7h0JcjDEQU5n8nppgkBWY3vguB&index=5 - this is where I got the idea for the vector drawing
+
+
+Chapter 1 - this https://see.stanford.edu/materials/lsoftaee261/book-fall-07.pdf 
+
+https://assets.press.princeton.edu/chapters/s7562.pdf 
+
+Lectures 2,3,4,5 - https://see.stanford.edu/Course/EE261
+
+Chapter 6 - https://physics.wooster.edu/wp-content/uploads/2024/01/LindnerPhysicsMathLoRes.pdf
+
+the following videos; https://www.youtube.com/watch?v=p_di4Zn4wz4&t=1s 
+https://www.youtube.com/watch?v=ly4S0oi3Yz8&t=1s
+https://www.youtube.com/watch?v=ToIXSwZ1pJU
+https://www.youtube.com/watch?v=r6sGWTCMz2k&t=1s
+https://www.youtube.com/watch?v=spUNpyF58BY&t=1s
 </p>
 
 <h2>Tasks</h2>
 <ul>
-<li>Research the basic of fourier</li>
-<li>Review cos and sin </li>
-<li>Complex numbers</li>
-<li>Frequency</li>
-<li>Read article? About fourier transform</li>
+<li> go through lectures + chapters (this is like 10 tasks in 1)</li>
 <li>Time domain vs frequency domain</li>
 <li>Learn about DFT and FFT</li>
-<li>Try to understand mathematically</li>
 <li>Learn about O(N) and why FFT reduces complexity significantly</li>
 <li>understand/ write pseudo code for algos</li>
 <li>Convolutions </li>
